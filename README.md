@@ -1,8 +1,4 @@
-# Vastrack QA Engineer Assessment
-
-**Role:** QA Engineer (mid-level, manual + automation)  
-**Time allowed:** about 4 to 5 hours of actual work, spread over the weekend as suits you. This is a guideline, not a reason to rush or compromise quality.  
-**Deadline:** Monday 16 November 2026, 6:00 PM WAT.
+# Vastrack QA Engineering on Routag Logistics and Delivery
 
 ## About the product
 
@@ -117,18 +113,3 @@ Submit the following, in a ZIP or in a GitHub repository:
 6. `README.md`: how to install and run your tests in under five minutes, plus any assumptions you made and anything you would do with more time.
 
 Do not commit credentials. Use environment variables and provide a `.env.example`.
-
-**How to submit.** Submit before Monday 16 November 2026, 6:00 PM WAT. We will confirm receipt.
-
-- **If you prefer GitHub:** put the items in your own repository and send us the link. If it is private, add the GitHub user `OWL-vasttrack` as a collaborator.
-- **Otherwise:** reply to the email you received this assessment in, with a ZIP attached. Keep it under about 20 MB and leave out `node_modules`.
-
-## Rules
-
-- You may use documentation, search and AI tools. If you use AI, say so in the README of your submission and say what you checked yourself. You will be asked to explain and defend any part of your submission in the follow-up interview.
-- If something in the brief is unclear, state your assumption and carry on. Questions to the hiring team are allowed, and the quality of your questions is noted.
-- Test only the sandbox you were given. The source is in the repository so you can run it without Docker.
-
-## How you will be assessed
-
-We value judgement over tooling. We look at whether you understand what to test and why, whether you find real problems, and whether your work is clear, reproducible and maintainable. Writing automation scripts alone will not earn a high score.
